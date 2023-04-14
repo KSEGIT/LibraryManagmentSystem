@@ -1,14 +1,8 @@
 Middlesex University 2021
+Daniel Kiska
 
 C++ library management system with custom implemented AVL data structure
 
 
 needs input file as argument for initialisation
 example running command: "./library database.txt" or "./library books"
-
-
-TODO:
-add tests check if book has right title
-search results 
-update item
-delete with wrong argument everything stays the same

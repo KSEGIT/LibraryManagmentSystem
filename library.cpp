@@ -1,7 +1,7 @@
 /*
     library.cpp
     Description: Library search algorithm
-    Author: ####
+    Author: Daniel Kiska
     SIDNumber: M00741238
     Created: 12.04.2021
     Updated: ####
@@ -10,6 +10,10 @@
 /* TODO:
 - Rewrtite user choice loop 
 - finish program from main
+- add tests check if book has right title
+- search results 
+- update item
+- delete with wrong argument everything stays the same
 
 
 /* ##########Libraries & Classes & Global variables ########## */
